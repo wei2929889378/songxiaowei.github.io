@@ -46,19 +46,12 @@
 - 2020.02-2020.06年度 获得院单项奖学金
 - 2019.03             获得江苏省排舞联赛一、二等奖
 
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ Spring
-- ★★☆ HTML/CSS/JavaScript
-- ★★☆ Python
-- ★★★ MySQL
-- ★★★ Redis
+- ★☆☆ Java
+- ★★☆ Auto CAD
+- ★★☆ PCB
+- ★★★ Word、Excel、Powerpoint等办公软件
+- ★★★ C语言
+- ★★★ 动手能力
