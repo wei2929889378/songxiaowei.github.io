@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<center>
+     <h1>开到荼蘼</h1>
+     <div>
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
+             18335209367
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/envelope-solid.svg" width="18px">
+             2929889378@qq.com
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://github.com/mqxu">我的Github</a>
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
+         </span>
+     </div>
+ </center>
+ 
 
-You can use the [editor on GitHub](https://github.com/wei2929889378/songxiaowei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - 年龄：22
+ - 爱好：听音乐、专研
+ - 工作经验：暂无。现于学校学习ing
 
-### Markdown
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 大专：常州信息职业技术学院，物联网应用技术专业，2018.9~2021.7
+- 主要课程：
+-   C语言程序设计，Java语言程序设计，Android程序设计，C#程序语言设计
+-   单片机应用技术，RFID应用技术，传感器应用技术，虚拟仪器应用设计
+-   PCB设计，Auto CAD绘图，短距离无线通信技术
+-   简易电子产品设计与制作，万用表装配实训，物联网系统方案设计
+-   数字电路分析与实践，电路基础，，模拟电路分析与实践，嵌入式系统应用技术
 
-```markdown
-Syntax highlighted code block
+- 本科：南京工业职业技术大学，软件工程技术专业，2021.9~2023.7
+- 主要课程：
+-   面向对象高级程序设计，数据库技术与应用，数据结构与算法，JavaScript程序设计
 
-# Header 1
-## Header 2
-### Header 3
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 奖励荣誉
 
-- Bulleted
-- List
+- 2018.10-2019.04年度 入党积极分子培训合格，被评为入党积极分子。
+- 2018.09-2019.01年度 获得院单项奖学金
+- 2019.02-2019.06年度 获得院一等奖学金、被评为优秀班干部
+- 2019.09-2020.01年度 获得院一等奖学金、国家励志奖学金
+- 2020.02-2020.06年度 获得院单项奖学金
+- 2019.03             获得江苏省排舞联赛一、二等奖
 
-1. Numbered
-2. List
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wei2929889378/songxiaowei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ★☆☆ Java
+- ★★☆ Auto CAD
+- ★★★ PCB
+- ★★★ Word、Excel、Powerpoint等办公软件
+- ★★★ C语言
+- ★★★ 动手能力
