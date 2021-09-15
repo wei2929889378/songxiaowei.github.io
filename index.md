@@ -14,14 +14,14 @@
  </center>
  
 
- ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
+ <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 年龄：22
  - 爱好：听音乐、专研
  - 工作经验：暂无。现于学校学习ing
-< br >
+
      
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 教育经历
+<img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 教育经历
 
 - 大专：常州信息职业技术学院，物联网应用技术专业，2018.9~2021.7
 - 主要课程：
@@ -36,7 +36,7 @@
 -   面向对象高级程序设计，数据库技术与应用，数据结构与算法，JavaScript程序设计
 
      
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 奖励荣誉
+ <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 奖励荣誉
 
 - 2018.10-2019.04年度 入党积极分子培训合格，被评为入党积极分子。
 - 2018.09-2019.01年度 获得院单项奖学金
@@ -46,7 +46,7 @@
 - 2019.03             获得江苏省排舞联赛一、二等奖
 
      
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
+ <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★☆☆ Java
 - ★★☆ Auto CAD
