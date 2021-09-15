@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
-             <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
+             <a href="https://songxiaowei.github.io/blog.github.io/">我的博客</a>
          </span>
      </div>
  </center>
