@@ -34,8 +34,7 @@
 - 本科：南京工业职业技术大学，软件工程技术专业，2021.9~2023.7
 - 主要课程：
 -   面向对象高级程序设计，数据库技术与应用，数据结构与算法，JavaScript程序设计
-     
-     
+         
 ##  <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 奖励荣誉
 
 - 2018.10-2019.04年度 入党积极分子培训合格，被评为入党积极分子。
@@ -44,8 +43,7 @@
 - 2019.09-2020.01年度 获得院一等奖学金、国家励志奖学金
 - 2020.02-2020.06年度 获得院单项奖学金
 - 2019.03             获得江苏省排舞联赛一、二等奖
-     
-     
+          
 ##  <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★☆☆ Java
