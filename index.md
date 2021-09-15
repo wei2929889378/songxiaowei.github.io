@@ -19,7 +19,7 @@
  - 年龄：22
  - 爱好：听音乐、专研
  - 工作经验：暂无。现于学校学习ing
-
+< br >
      
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 教育经历
 
