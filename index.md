@@ -1,5 +1,5 @@
 <center>
-     <h1>开到荼蘼</h1>
+     <h1>欢迎来到我的博客</h1>
      <div>
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
@@ -20,6 +20,7 @@
  - 爱好：听音乐、专研
  - 工作经验：暂无。现于学校学习ing
 
+     
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 教育经历
 
 - 大专：常州信息职业技术学院，物联网应用技术专业，2018.9~2021.7
@@ -34,6 +35,7 @@
 - 主要课程：
 -   面向对象高级程序设计，数据库技术与应用，数据结构与算法，JavaScript程序设计
 
+     
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 奖励荣誉
 
 - 2018.10-2019.04年度 入党积极分子培训合格，被评为入党积极分子。
@@ -43,6 +45,7 @@
 - 2020.02-2020.06年度 获得院单项奖学金
 - 2019.03             获得江苏省排舞联赛一、二等奖
 
+     
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★☆☆ Java
